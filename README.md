@@ -11,7 +11,7 @@
   <a href="mailto:josephcastro471@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-Construyo y mantengo sistemas web en producción para los sectores salud y educación. En JucaCoop Solutions sostengo un sistema de gestión médica de 3 módulos (Ceragem) con **99% de disponibilidad**, APIs REST en Node.js y consultas SQL optimizadas (**−20%** tiempo de respuesta).
+En JucaCoop Solutions construí y mantuve en producción un sistema de gestión médica de 3 módulos para el cliente Ceragem, con 99% de disponibilidad: APIs REST en Node.js, consultas SQL optimizadas sobre PostgreSQL (−20% en tiempo de respuesta), e interfaces en React + MUI. Actualmente colaboro con ellos en consultorías puntuales, mientras desarrollo proyectos propios y trabajos freelance — como un sistema de login construido para un profesor.
 
 ### Stack
 
@@ -39,15 +39,11 @@ Construyo y mantengo sistemas web en producción para los sectores salud y educa
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**FaceAuth**](https://github.com/josephCastro471/faceAuth) · [demo](https://face-auth-nine.vercel.app) | Autenticación facial 100% en navegador, sin backend | React · Vite · face-api.js |
-| **Pulso** | Asistente de salud con JWT, CRUD completo y dashboard interactivo | React · Node.js · Prisma · Recharts |
-| **CotizaFlow** | Sistema de cotización SaaS multi-tenant, en desarrollo activo | FastAPI · PostgreSQL · React + TS |
+| [**Pulso**](https://github.com/josephCastro471/pulso) | Asistente de salud con JWT, CRUD completo y dashboard interactivo | React · Node.js · Prisma · Recharts |
+| [**Cotiza**](https://github.com/josephCastro471/cotiza) | Sistema de cotización SaaS multi-tenant | React · Node.js · Express · PostgreSQL |
 
 ### Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josephCastro471&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephCastro471&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=josephCastro471&theme=tokyonight&hide_border=true" />
 </p>
