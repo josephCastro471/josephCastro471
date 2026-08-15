@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=180&section=header&text=Joseph%20Castro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=180&section=header&text=Hola%2C%20soy%20Joseph&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Desarrollador Full Stack — React · Node.js · PostgreSQL</h3>
@@ -61,4 +61,8 @@ En JucaCoop Solutions construí y mantuve en producción un sistema de gestión 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=josephCastro471&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=100&section=footer" />
 </p>
